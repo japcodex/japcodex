@@ -3,7 +3,7 @@
 **`Exploring Code, Design & Ideas`**
 
 👋 Me chamo Julio André, sou natural do Paraná e atualmente curso Sistemas de Informação na UTFPR. Possuo experiência em modelagem 3D, design gráfico e desenvolvimento de jogos, aplicações e sites, além de atuar com automação, desenvolvendo soluções que integram tecnologia e criatividade 🚀
-[LinkedIn](https://www.instagram.com/dev_em_dev/)
+[LinkedIn](https://www.linkedin.com/in/julioandrecimarosti/)
 
 <p align="left">
   <a href="https://github.com/japcodex?tab=followers">
