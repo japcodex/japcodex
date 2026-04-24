@@ -3,11 +3,18 @@ name: Purge Camo Cache
 on:
   push:
     branches:
-      - main  # Ou o nome da sua branch principal
+      - main
+      - master
 
 jobs:
   purge-cache:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      actions: write
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
       - name: Purge Camo Cache
         uses: kevincobain2000/action-camo-purge@v1
