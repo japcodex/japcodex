@@ -137,7 +137,7 @@
   <img 
     alt="Streak Stats" 
     height="200" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=japcodex&theme=tokyonight" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=japcodex&theme=tokyonight&v=1" 
   />
 </p>
 
