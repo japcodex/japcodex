@@ -123,7 +123,7 @@
   />
 
   <img 
-    align="left" 
+    align="center" 
     alt="Top Langs" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=japcodex&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&v=1" 
