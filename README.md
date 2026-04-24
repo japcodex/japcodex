@@ -122,11 +122,22 @@
     src="https://github-readme-stats.vercel.app/api?username=japcodex&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=japcodex&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&v=1" 
+  <img 
+    align="left" 
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=japcodex&theme=tokyonight" 
   />
-
 </p>
+
+<br clear="both"/>
+<br />
+
+<p align="left">
+  <img 
+    alt="Streak Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=japcodex&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&v=1" 
+  />
+</p>
+
