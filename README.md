@@ -10,14 +10,14 @@
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/japcodex?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white&v=1"
+            src="https://custom-icon-badges.demolab.com/github/followers/japcodex?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white&"
         />
     </a>
     <a href="https://github.com/japcodex?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/japcodex?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/japcodex?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas&"
         />
     </a>
     
@@ -119,14 +119,14 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=japcodex&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&v=1" 
+    src="https://github-readme-stats.vercel.app/api?username=japcodex&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&" 
   />
 
   <img 
     align="center" 
     alt="Top Langs" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=japcodex&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&v=1" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=japcodex&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&" 
   />
 </p>
 
@@ -137,7 +137,7 @@
   <img 
     alt="Streak Stats" 
     height="200" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=japcodex&theme=tokyonight&v=1" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=japcodex&theme=tokyonight&" 
   />
 </p>
 
