@@ -119,14 +119,14 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=japcodex&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&" 
+    src="" 
   />
 
   <img 
     align="center" 
     alt="Top Langs" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=japcodex&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&" 
+    src="" 
   />
 </p>
 
@@ -137,7 +137,7 @@
   <img 
     alt="Streak Stats" 
     height="200" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=japcodex&theme=tokyonight&" 
+    src="" 
   />
 </p>
 
