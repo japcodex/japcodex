@@ -110,34 +110,3 @@
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="" 
-  />
-
-  <img 
-    align="center" 
-    alt="Top Langs" 
-    height="200" 
-    src="" 
-  />
-</p>
-
-<br clear="both"/>
-<br />
-
-<p align="center">
-  <img 
-    alt="Streak Stats" 
-    height="200" 
-    src="" 
-  />
-</p>
-
