@@ -1,12 +1,9 @@
 <div align="center">
-
 <a href="https://git.io/typing-svg">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=750&lines=%E2%8A%B9+Welcome+to+my+profile!+%E2%8A%B9;%E2%8A%B9+Julio+Andr%C3%A9+%E2%8A%B9;%E2%8A%B9+Code+%C2%B7+Design+%C2%B7+Automotive+%E2%8A%B9"
-    alt="Typing SVG"
-  />
+    alt="Typing SVG"/>
 </a>
-
 <br>
 
 <img
@@ -15,8 +12,6 @@
 />
 
 </div>
-
-<br>
 
 
 <h2 align="left">𝓙𝓾𝓵𝓲𝓸 𝓐𝓷𝓭𝓻𝓮́ 𝓟𝓪𝓻𝓲𝔃𝓸𝓽𝓽𝓸 𝓒𝓲𝓶𝓪𝓻𝓸𝓼𝓽𝓲</h2>
@@ -119,6 +114,7 @@ I enjoy turning ideas into real projects, exploring <b>software, 3D, creative te
 </a>
 
 </p>
+<br>
 <div align="center">
 
 <img
@@ -127,7 +123,6 @@ I enjoy turning ideas into real projects, exploring <b>software, 3D, creative te
 />
 
 </div>
-
 
 <h4 align="left">𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 & 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓶𝓮𝓷𝓽</h4>
 
