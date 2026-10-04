@@ -211,8 +211,5 @@ I enjoy turning ideas into real projects, exploring <b>software, 3D, creative te
   width="85%"
 />
 
-<br><br>
-
 <sub>𝓑𝓾𝓲𝓵𝓭 · 𝓛𝓮𝓪𝓻𝓷 · 𝓔𝔁𝓹𝓵𝓸𝓻𝓮 · 𝓡𝓮𝓹𝓮𝓪𝓽</sub>
-
 </div>
