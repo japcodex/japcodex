@@ -177,13 +177,13 @@ I enjoy turning ideas into real projects, exploring <b>software, 3D, creative te
     align="top"
     height="200"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=japcodex&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=japcodex&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&"
   />
   <img
     align="top"
     height="200"
     alt="Most Used Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=japcodex&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=japcodex&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9&"
   />
 </p>
 
@@ -191,7 +191,7 @@ I enjoy turning ideas into real projects, exploring <b>software, 3D, creative te
   <img
     height="200"
     alt="GitHub Streak"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=japcodex&theme=tokyonight"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=japcodex&theme=tokyonight&"
   />
 </p>
 
