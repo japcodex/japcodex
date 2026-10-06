@@ -94,21 +94,21 @@ I enjoy turning ideas into real projects, exploring <b>software, 3D, creative te
 
 <a href="https://github.com/japcodex">
   <img
-    src="https://img.shields.io/badge/GitHub-japcodex-181717?style=for-the-badge&logo=github&logoColor=white"
+    src="https://img.shields.io/badge/GitHub-japcodex-181717?style=for-the-badge&logo=github&logoColor=white&"
     alt="GitHub"
   />
 </a>
 
 <a href="https://github.com/japcodex?tab=followers">
   <img
-    src="https://custom-icon-badges.demolab.com/github/followers/japcodex?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
+    src="https://custom-icon-badges.demolab.com/github/followers/japcodex?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white&"
     alt="GitHub Followers"
   />
 </a>
 
 <a href="https://github.com/japcodex?tab=repositories&sort=stargazers">
   <img
-    src="https://custom-icon-badges.demolab.com/github/stars/japcodex?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
+    src="https://custom-icon-badges.demolab.com/github/stars/japcodex?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars&"
     alt="GitHub Stars"
   />
 </a>
