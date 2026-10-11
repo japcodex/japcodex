@@ -65,7 +65,7 @@ I enjoy turning ideas into real projects, exploring <b>software, 3D, creative te
   />
 </a>
 
-<a href="https://www.behance.net/julioandre7">
+<a href="https://www.behance.net/julioandrecimarosti">
   <img
     src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"
     alt="Behance"
