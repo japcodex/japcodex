@@ -183,7 +183,7 @@ I enjoy turning ideas into real projects, exploring <b>software, 3D, creative te
     align="top"
     height="200"
     alt="Most Used Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=japcodex&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9&v"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=japcodex&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9&"
   />
 </p>
 
@@ -191,7 +191,7 @@ I enjoy turning ideas into real projects, exploring <b>software, 3D, creative te
   <img
     height="200"
     alt="GitHub Streak"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=japcodex&theme=tokyonight&v"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=japcodex&theme=tokyonight&"
   />
 </p>
 
