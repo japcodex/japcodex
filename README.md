@@ -191,7 +191,7 @@ I enjoy turning ideas into real projects, exploring <b>software, 3D, creative te
   <img
     height="200"
     alt="GitHub Streak"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=japcodex&theme=tokyonight&"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=japcodex&theme=tokyonight&v"
   />
 </p>
 
