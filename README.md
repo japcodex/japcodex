@@ -202,7 +202,7 @@ I enjoy turning ideas into real projects, exploring <b>software, 3D, creative te
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&width=85%&"
+  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&width=85%"
   width="85%"
 />
 
