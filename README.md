@@ -3,7 +3,7 @@
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=750&lines=%E2%8A%B9+Welcome+to+my+profile!+%E2%8A%B9;%E2%8A%B9+Julio+Andr%C3%A9+Cimarosti+%E2%8A%B9;"
     alt="Typing SVG"/>
-</a>
+</a
 <br>
 
 <img
