@@ -172,7 +172,7 @@ I enjoy turning ideas into real projects, exploring <b>software, 3D, creative te
 
 <div align="center">
 
-<p>
+<!-- <p>
   <img
     align="top"
     height="200"
@@ -185,7 +185,7 @@ I enjoy turning ideas into real projects, exploring <b>software, 3D, creative te
     alt="Most Used Languages"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=japcodex&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9&"
   />
-</p>
+</p> -->
 
 <p>
   <img
